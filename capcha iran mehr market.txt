@@ -1,0 +1,9 @@
+
+'iran-mehr-market.ir' has been registered.
+
+Use this site key in the HTML code your site serves to users.
+6LewlqgZAAAAAJdwjskFKx8qqLmn_CXFtUrvpoAd
+
+
+Use this secret key for communication between your site and reCAPTCHA.
+6LewlqgZAAAAAASQIUtzn7xuDT_jBMiLCu4EzX7D
